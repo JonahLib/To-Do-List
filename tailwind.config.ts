@@ -12,6 +12,9 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      backgroundImage: {
+        "radial-custom": "radial-gradient(circle, #3f5efb 0%, #fc466b 100%)",
+      },
     },
   },
   plugins: [],
